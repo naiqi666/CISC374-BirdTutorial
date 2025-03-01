@@ -212,7 +212,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
+<<<<<<< HEAD
     nameFileIdTable: {}
+=======
+    nameFileIdTable:
+      unitytut-cloud_0: 7676210349321894332
+>>>>>>> 170d3d4 (final angry bird)
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
